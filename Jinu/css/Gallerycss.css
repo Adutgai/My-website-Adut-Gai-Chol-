@@ -1,0 +1,67 @@
+img{
+    height: 400px;
+    width: 401px;
+    border-radius: 20px;
+    padding: 6px;
+    margin: 10ox;
+}
+footer{
+    background-color: teal;
+    margin-top: 1px;
+    padding: 1px;
+    text-align: center;
+    border-radius: 20px;
+}
+#navi {
+    background-color:teal;
+    color: black;
+    margin-top:0px;
+    display: block;
+    padding: 15px; 
+    border-radius: 20px;
+}
+#navi a {
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    margin: 50px;
+    padding: 15px;
+
+}
+#navi a:hover{
+    color: rgb(78, 7, 7);
+    background-color:azure;;
+}
+body{
+    background-image: url("./excavator-51665__480.jpg");
+    background-attachment: scroll;
+}
+#head{
+    color:black;
+    font-family:'Courier New', Courier, monospace;
+    margin: 5px;
+    border-radius: 20px;
+    font-style: italic;
+    height: 90px;
+    padding: 50px;
+    font-size: 60px;
+    background-color: azure;
+    height: 20px;
+    text-align: center;
+    position: relative;
+    box-shadow: inset 2px 2px 2px 2px rgb(5, 5, 5);
+    text-shadow: 2px 2px 4px black;
+}
+h1{
+    margin: 0px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.top{
+    background-color: aliceblue;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 1px;
+    margin: 5px;
+}

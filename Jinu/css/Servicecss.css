@@ -1,0 +1,93 @@
+#navi {
+    background-color:teal;
+    color: black;
+    margin-top:0px;
+    display: block;
+    padding: 15px; 
+    border-radius: 20px;
+}
+#navi a {
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    margin: 50px;
+    padding: 20px;
+}
+#navi a:hover{
+    color: rgb(78, 7, 7);
+    background-color:azure;;
+    border-radius: 30px;
+}
+footer{
+    background-color: teal;
+    margin-top: 1px;
+    padding: 1px;
+    text-align: center;
+    border-radius: 20px;
+}
+.note{
+    background-color: azure;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin: 5px 0px 0px;
+    padding:10px;
+    text-align: center;
+    margin-bottom: 5px;
+    border-radius: 20px;
+}
+body{
+   background-image: url("C:/Users/TEMP.JINULAPTOP.000/Desktop/ass/Jinu/img/excavator-51665__480.jpg");
+    background-attachment: scroll;
+}
+.tab{
+    width: 80%;
+    text-align: justify;
+    font-size: 30px;
+    border: 5px;
+    border-style: solid;
+    padding: 20px;
+    border-collapse: collapse;
+    border-radius: 0px;
+    background-color: #b6e7d5;
+    margin: auto;
+    box-shadow: outset 2px 2px 2px 2px rgb(5, 5, 5);
+}
+tr{
+    border: 5px;
+    border-style: solid;
+}
+th{
+    background-color: #8af5ce;
+    border-style: solid;
+}
+tr:hover{
+background-color: rgb(210, 231, 248);
+}
+td{
+    border: solid;
+}
+h1{
+    color:black;
+    font-family:'Courier New', Courier, monospace;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+    font-style: italic;
+    height: auto;
+    padding: 50px;
+    font-size: 60px;
+    background-color: azure;
+    height: 20px;
+    text-align: center;
+    position: relative;
+    box-shadow: inset 2px 2px 2px 2px rgb(5, 5, 5);
+    text-shadow: 2px 2px 4px black;
+}
+.top{
+    background-color: aliceblue;
+    text-decoration: none;
+    border-radius: 2px;
+    padding: 1px;
+    margin: 5px;
+}
